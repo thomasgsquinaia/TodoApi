@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Data",
-    "\\Migrations",
-    "\\Models"
+    "\\Controllers"
   ],
-  "SelectedNode": "\\Data\\AppDbContext.cs",
+  "SelectedNode": "\\Controllers\\TodoController.cs",
   "PreviewInSolutionExplorer": false
 }
